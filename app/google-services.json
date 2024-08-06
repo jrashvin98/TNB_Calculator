@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "33693786684",
+    "firebase_url": "https://tnb-bill-calculator-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tnb-bill-calculator",
+    "storage_bucket": "tnb-bill-calculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33693786684:android:26701cb6e3fd7f168cd939",
+        "android_client_info": {
+          "package_name": "com.example.tnbcalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWc-o32XeQH8cwvynXT1KlnvQ6y5fyCS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
